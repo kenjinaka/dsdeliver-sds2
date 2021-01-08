@@ -1852,3 +1852,15 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 01:33:34.210
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PUnQlLck
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 01:33:34.212
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PUnQlLck
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 01:33:34.213
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-08 01:33:34.214
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PUnQlLck => OK
